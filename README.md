@@ -6,4 +6,4 @@ Project scope: Protein binding energy level prediction machine learning algorith
 
  Developed with the collaboration of [Faraz Badali](https://github.com/return0ftheFaraz), [Büşra Tayhan](https://github.com/btayhan), [Alize Sevgi Yalçınkaya](https://github.com/alizesevgi), and [Bilgehan Cagiltay](https://github.com/DivinorWieldor).
 
-The data for this project has been sourced from ["T.F. Guclu, A.R. Atilgan, C. Atilgan, "Deciphering GB1's Single Mutational Landscape: Insights from MuMi Analysis," Journal of Physical Chemistry B; 128, 7987-7996 (2024)"](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c04916)
+The data for this project has been sourced from: ["T.F. Guclu, A.R. Atilgan, C. Atilgan, "Deciphering GB1's Single Mutational Landscape: Insights from MuMi Analysis," Journal of Physical Chemistry B; 128, 7987-7996 (2024)"](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c04916)
